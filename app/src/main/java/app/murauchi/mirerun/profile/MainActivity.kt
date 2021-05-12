@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             //見えるようにする
             profileImage.isVisible = true
             profileCommentText.isVisible = true
+            //aio
         }
     }
 }
